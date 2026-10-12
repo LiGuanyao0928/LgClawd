@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-app = FastAPI(title="Clawd Studio")
+app = FastAPI(title="LgClawd")
 
 
 @app.get("/health")

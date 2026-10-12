@@ -1,4 +1,4 @@
-# Clawd Studio 开发计划
+# LgClawd 开发计划
 
 用 Claude API 写一个多 Agent 内容生产系统，运营真实账号 LgClawd（抖音 / TikTok）：
 选题 → 分镜 → 渲染 → 自动质检 → 人工审核 → 发布。
@@ -11,7 +11,7 @@
 
 ## 阶段 0｜准备（第 1 周）
 - [x] 装 Git，初始化仓库（PortableGit 2.56，在 `D:\claude code\tools\PortableGit`）
-- [ ] 第一次提交
+- [x] 第一次提交
 - [x] Python 3.12 虚拟环境 + FastAPI 骨架，`/health` 接口和测试通过
 - [ ] 在 Anthropic Console 开 API Key，设每月花费上限
 - [ ] 跑通 `scripts/hello_claude.py`：第一次调用 Claude，打印花了多少钱

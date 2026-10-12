@@ -1,7 +1,7 @@
 [project]
-name = "clawd-studio-backend"
+name = "lgclawd-backend"
 version = "0.1.0"
-description = "Clawd Studio 后端：多 Agent 内容生产系统"
+description = "LgClawd 后端：多 Agent 内容生产系统"
 requires-python = ">=3.12"
 dependencies = [
     "anthropic>=1.13",

@@ -1,6 +1,6 @@
-# Clawd Studio
+# LgClawd
 
-一个用 Claude API 构建的多 Agent 内容生产系统，负责运营像素 AI 角色 **LgClawd** 的抖音 / TikTok 账号：
+一个用 Claude API 构建的多 Agent 内容生产系统，负责运营像素 AI 角色 **LgClawd** 自己的抖音 / TikTok 账号：
 选题 → 分镜 → 渲染 → 自动质检 → 人工审核 → 发布。
 
 > 状态：阶段 0（搭建中）。完整路线见 [docs/PLAN.md](docs/PLAN.md)。
@@ -8,7 +8,7 @@
 ## 目录结构
 
 ```
-clawd-studio/
+LgClawd/
 ├── backend/          Python 后端（FastAPI + Claude API）
 │   ├── app/          服务代码
 │   ├── scripts/      一次性脚本（如 hello_claude.py）
