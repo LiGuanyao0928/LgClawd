@@ -15,7 +15,7 @@
 - [x] Python 3.12 虚拟环境 + FastAPI 骨架，`/health` 接口和测试通过
 - [ ] 在 Anthropic Console 开 API Key，设每月花费上限
 - [ ] 跑通 `scripts/hello_claude.py`：第一次调用 Claude，打印花了多少钱
-- [ ] （可选）建 GitHub 仓库并推送
+- [x] 建 GitHub 仓库并推送：https://github.com/LiGuanyao0928/LgClawd
 
 ## 阶段 1｜分镜 JSON → 视频（第 2–3 周）⭐
 - [ ] 把现有 Remotion 项目（`D:\claude code\douyin`）并入 `renderer/`
