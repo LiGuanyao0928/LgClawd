@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# 密钥：绝对不要提交
+.env
+
+# Node / Remotion
+node_modules/
+out/
+
+# 系统文件
+.DS_Store
+Thumbs.db

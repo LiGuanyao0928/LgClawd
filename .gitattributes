@@ -1,0 +1,2 @@
+# 仓库里统一用 LF 换行，Windows / macOS 都不会出现换行符差异
+* text=auto eol=lf
