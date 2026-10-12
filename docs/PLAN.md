@@ -17,6 +17,15 @@
 - [x] 跑通 `scripts/hello_claude.py`：第一次调用 Claude，输入 65 / 输出 62 tokens，花费约 $0.0015
 - [x] 建 GitHub 仓库并推送：https://github.com/LiGuanyao0928/LgClawd
 
+## 学习路线｜Python 从零开始（和项目并行）
+用项目自己的代码当课本。每课流程：讲解 → 回答 2–3 个问题 → 亲手改一处 → 运行。
+- [ ] L1 读懂 `hello_claude.py`：变量、字符串、字典、函数、import
+- [ ] L2 列表、if、for：让 Clawd 连着回答三个问题
+- [ ] L3 函数的参数和返回值：把调用封装成 `ask(question)`
+- [ ] L4 类和 Pydantic：用 `BaseModel` 描述「一期视频」
+- [ ] L5 JSON：读写文件，字典 ↔ JSON 互相转换
+- [ ] L6 FastAPI 入门：读懂 `main.py`，加一个 `/hello` 接口
+
 ## 阶段 1｜分镜 JSON → 视频（第 2–3 周）⭐
 - [ ] 把现有 Remotion 项目（`D:\claude code\douyin`）并入 `renderer/`
 - [ ] 整理场景库：Caption / Bubble / Notebook / IdCard / List …
