@@ -13,8 +13,8 @@
 - [x] 装 Git，初始化仓库（PortableGit 2.56，在 `D:\claude code\tools\PortableGit`）
 - [x] 第一次提交
 - [x] Python 3.12 虚拟环境 + FastAPI 骨架，`/health` 接口和测试通过
-- [ ] 在 Anthropic Console 开 API Key，设每月花费上限
-- [ ] 跑通 `scripts/hello_claude.py`：第一次调用 Claude，打印花了多少钱
+- [x] 在 Anthropic Console 开 API Key（预付 $5 额度，不开自动充值）
+- [x] 跑通 `scripts/hello_claude.py`：第一次调用 Claude，输入 65 / 输出 62 tokens，花费约 $0.0015
 - [x] 建 GitHub 仓库并推送：https://github.com/LiGuanyao0928/LgClawd
 
 ## 阶段 1｜分镜 JSON → 视频（第 2–3 周）⭐
